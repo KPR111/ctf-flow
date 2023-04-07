@@ -5,6 +5,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Navbar from './components/Navbar/Navbar'
+import Home from './page/Home/Home';
 
 const Layout = () => {
   return (
